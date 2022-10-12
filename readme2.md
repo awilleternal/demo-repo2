@@ -1,0 +1,2 @@
+#dedmo
+some text
